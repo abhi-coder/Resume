@@ -1,0 +1,55 @@
+.horizontal-list{
+  list-style: none;
+  padding-left: 0;
+  text-align: center;
+}
+.horizontal-list li{
+  display: inline-block;
+}
+.centre-text{
+  text-align: center;
+}
+#body-header{
+background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/00/06/36/6856299993ea2f8.jpg");
+background-position: center;
+background-size: cover;
+height: 100vh;
+background-attachment: fixed;
+}
+body{
+  margin: 0;
+  font-family: monospace;
+  text-transform: capitalize;
+}
+.white-text li a{
+  color: red;
+}
+.wow-text{
+  color: 8C3C00;
+}
+#body-header nav ul li{
+  margin-top: 25px;
+  width: 10%;
+}
+#social-icon ul li{
+  margin-top: 20px;
+  text-align: center;
+  margin: 40px;
+  height: 30px;
+}
+section{
+  height: 100vh;
+}
+section .lhs{
+  display: inline-block;
+  width: 80%;
+  height: 100%
+  background-color:pink;
+}
+section .rhs{
+  display: inline-block;
+  width: 79%;
+  height: 100%;
+  background-color: yellow;
+
+}
